@@ -1,0 +1,12 @@
+##
+## "Follow The White Rabbit"
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   
+
+              (\\_(\\
+              (*.*)
+              /  )
+             o(  )_\_
+EOC
