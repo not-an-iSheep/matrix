@@ -1,4 +1,5 @@
 #!/bin/bash
+read -n 1 -s
 if [ ! -d "/usr/share/cowsay/" ]; then
 echo "ERROR: cowsay not installed!
 echo "attempting installation..."
