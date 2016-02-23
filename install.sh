@@ -1,4 +1,6 @@
 #!/bin/bash
+#DONT USE ME IM BROKEN
+echo THIS SCRIPT DOESNT WORK
 read -n 1 -s
 if [ ! -d "/usr/share/cowsay/" ]; then
 echo "ERROR: cowsay not installed!
